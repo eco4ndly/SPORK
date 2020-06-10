@@ -50,8 +50,8 @@ abstract class AppPrefs {
     @Pref("count")
     abstract var count: Int
 
-    @Pref("foobar")
-    abstract var fooBar: String
+    @Pref("screen_name")
+    abstract var screenName: String
 }
 ```
 
